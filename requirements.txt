@@ -1,4 +1,2 @@
 ipython[all]
-import math
-import statistics as st
-import matplotlib.pyplot as plt
+matplotlib
